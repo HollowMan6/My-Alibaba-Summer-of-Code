@@ -7,8 +7,8 @@
 [![stars](https://img.shields.io/github/stars/HollowMan6/My-Alibaba-Summer-of-Code?style=social)](../../stargazers)
 [![forks](https://img.shields.io/github/forks/HollowMan6/My-Alibaba-Summer-of-Code?style=social)](../../network/members)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
+[![Open Source Love](https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white&link=https://hollowman6.github.io/fund.html)](https://hollowman6.github.io/fund.html)
+[![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/My-Alibaba-Summer-of-Code.svg)](../../archive/master.zip)
 
 这里是我的"阿里巴巴编程之夏"活动记录与成果
