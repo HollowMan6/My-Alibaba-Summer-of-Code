@@ -17,7 +17,7 @@
 |  ----  | ----  |  ----  | ----  | ----  | ----  | ----  |  ----  |
 | [2020](https://developer.aliyun.com/topic/summerofcode2020)  | Arthas在线教程重新编排，每个命令一个小教程 | [点此访问](https://github.com/alibaba/arthas/issues/847)  |[Arthas](https://github.com/alibaba/arthas/issues/1198)|[点此访问](https://developer.aliyun.com/article/767007?spm=a2c6h.14553213.J_1935739830.1.156922c1aWm0q8&groupCode=opensource) | [点此访问](2020-Arthas/Alibaba%20Summer%20of%20Code%202020%20Proposal.pdf) |[Arthas ASoC 2020](https://github.com/HollowMan6/Arthas-ASoC-2020)|[Wiki](https://github.com/HollowMan6/Arthas-ASoC-2020/wiki) |
 
-[2020总结](2020-Arthas/Conclusion.md)
+[2020总结](2020-Arthas/Conclusion-Chinese.md)
 
 
 # My Alibaba Summer of Code
@@ -27,4 +27,4 @@ This is my work and record under Alibaba Summer of Code.
 |  ----  | ----  |  ----  | ----  | ----  | ----  | ----  |  ----  | 
 | [2020](https://www.alibabacloud.com/campaign/summerofcode2020)  | Provide a separate tutorial for each command | [Click here to visit](https://github.com/alibaba/arthas/issues/847)  |[Arthas](https://github.com/alibaba/arthas/issues/1198)|[Click here to visit](https://developer.aliyun.com/article/767007?spm=a2c6h.14553213.J_1935739830.1.156922c1aWm0q8&groupCode=opensource) | [Click here to visit](2020-Arthas/Alibaba%20Summer%20of%20Code%202020%20Proposal.pdf) |[Arthas ASoC 2020](https://github.com/HollowMan6/Arthas-ASoC-2020)| [Wiki](https://github.com/HollowMan6/Arthas-ASoC-2020/wiki) |
 
-[2020 Conclusion (in Chinese)](2020-Arthas/Conclusion.md)
+[2020 Conclusion](2020-Arthas/Conclusion-English.md)
