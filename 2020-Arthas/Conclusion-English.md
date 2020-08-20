@@ -2,26 +2,34 @@
 
 Author: Songlin Jiang (Hollow Man)
 
+## Arthas
+
 ![Arthas logo](https://arthas.aliyun.com/doc/_images/arthas.png)
 
-Attention Arthas novices! Still feel pity about too troublesome to set up your own environment, not having supported environment to try Arthas? Still feel confused about the poor operability of the documents and the difficulty of hands-on practice? Here comes the chance! Arthas new online tutorials will **make your troubles disappear**. With the help of [katacoda platform](https://www.katacoda.com/), the new Arthas online tutorials will become a powerful tool for you to **learn Arthas for free**!
+Arthas is a Java diagnostic tool open sourced by Alibaba, which supports JDK 6+, Linux/Mac/Windows, adopts command-line interaction mode, and provides rich tab automatic completion functions. Arthas helps developers in trouble-shooting issues in production environment for Java based applications without modifying code or restarting servers, so it is very popular with developers.
 
-## Katacoda
+## Alibaba Summer of Code
 
-Katacoda is an interactive learning and training platform for software engineers. It can use real-world environment to learn and test new technologies in the browser to help developers learn and master best practices.
+Arthas new online tutorials project is a part of [Alibaba Summer of Code 2020](https://www.alibabacloud.com/campaign/summerofcode2020). Alibaba Summer of Code is a programming inclusive program for undergraduate, master's and doctoral students aged 18 and above. It encourages college students to deeply participate in open source development activities, experience the charm of the open source world from the first perspective, and become the fresh blood of the open source community.
 
-Katacoda can quickly provide a temporary environment and recycle it after use. Users can operate a complete set of environment through the browser terminal interface according to the designed guidance steps, and learn and practice step by step.
+## Arthas new online tutorials
 
-## Usages
+Attention Arthas novices! Still feel pity about too troublesome to set up your own environment, not having supported environment to try Arthas? Still feel confused about the poor operability of the documents and the difficulty of hands-on practice? Here comes the chance! Arthas new online tutorials will **make your troubles disappear**. With the help of [katacoda platform](https://www.katacoda.com/), the new Arthas online tutorials will become a powerful tool for you to **learn Arthas**!
+
+### Highlights
+
+1. The new online tutorials include "Arthas Basics" and "Arthas Advanced" from the old online tutorials, which are placed in the "Tutorials" menu bar.
+
+2. All the commands of Arthas are placed in the menu bar according to their different functions, which are divided into four parts: Basic Commands, System Commands, Class Commands and Enhanced Commands. All commands are adapted according to relevant documents, and online tutorials are added respectively.
+
+3. Add typical user case online tutorial, which contains specific troubleshooting and the use of specific functions, placed in the "User Cases" menu bar.
+
+### Usages
 
 The new Arthas online tutorials provide a very convenient way to learn. You just need to open the corresponding courses, and you can follow the course instructions and complete the learning step by step according to the designed steps.
 
 1. First visit the online tutorial: https://arthas.aliyun.com/doc/arthas-tutorials.html?language=en , select the course you want to study from the menu:
 ![](https://user-images.githubusercontent.com/43995067/90310125-2a9bf480-df21-11ea-819d-2713f22f4145.png)
-
-   * The new online tutorials include "Arthas Basics" and "Arthas Advanced" from the old online tutorials, which are placed in the "Tutorials" menu bar.
-
-   * The new online tutorials also adapt all the commands of Arthas according to relevant documents, and each command has a related tutorial, which is placed in the menu by it's classification. I also add typical user cases online tutorials.
 
 2. The course introduction page will indicate the difficulty of the course and the time required to help you understand the basic information of the course. click `START SCENARIO` to start learning.
 ![](https://user-images.githubusercontent.com/43995067/90310168-9ed69800-df21-11ea-93cf-a01b4a41c66b.png)
@@ -32,7 +40,7 @@ The new Arthas online tutorials provide a very convenient way to learn. You just
 4. Click the tab on the right to switch between terminals. Then follow the step-by-step instructions to complete the learning step by step:
 ![](https://user-images.githubusercontent.com/43995067/90310282-b8c4aa80-df22-11ea-8052-3799277b748e.png)
 
-## Contribution Guide
+### Contribution Guide
 
 If you want to contribute to the Arthas online tutorials, you are welcome to submit pull requests for the Arthas online tutorials.
 
@@ -44,10 +52,10 @@ You can also refer to the article of Alibaba cloud developer community here(In C
 
 ## About
 
-Arthas new online tutorials project is a part of [Alibaba Summer of Code 2020](https://www.alibabacloud.com/campaign/summerofcode2020) completed by Songlin Jiang (I) (hollow Man), a 2018 undergraduate of Lanzhou University at [@hengyunabc](https://github.com/hengyunabc) and [@kylixs](https://github.com/kylixs) under the joint guidance of the two mentors in two months during the summer holiday (July to August) in 2020.
+Arthas new online tutorials are completed by Songlin Jiang (I) (hollow Man), a 2018 undergraduate of Lanzhou University at [@hengyunabc](https://github.com/hengyunabc) and [@kylixs](https://github.com/kylixs) under the joint guidance of the two mentors in two months during the summer holiday (July to August) in 2020.
 
 During the project peroid, with my unremitting efforts, more than 20000 lines of changes and nearly 70 pull requests finally contributed to the new online tutorial of Arthas!
-![](https://images.gitee.com/uploads/images/2020/0815/174403_7830ea67_7637131.png)
+![](https://images.gitee.com/uploads/images/2020/0820/102003_ac36bc3d_7637131.png)
 
 The two mentors also gave me a lot of guiding opinions during ASoC 2020, and I would like to thank them for their hard guidance 😀！
 

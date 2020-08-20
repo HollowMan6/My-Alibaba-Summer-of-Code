@@ -2,25 +2,34 @@
 
 作者：蒋嵩林(Hollow Man)
 
+## Arthas
+
 ![Arthas logo](https://arthas.aliyun.com/doc/_images/arthas.png)
 
-Arthas新手们，还在为自己配环境太麻烦，没有配套环境试用而感到遗憾吗？还在为文档操作性差，动手实践难度高而感到迷茫吗？机会来啦！Arthas新版在线教程将会让你的这些**烦恼去无踪**。借助[katacoda平台](https://www.katacoda.com/)，Arthas新版在线教程将会成为你**免费学习Arthas的利器**！
+Arthas是Alibaba开源的Java诊断工具，支持JDK 6+，支持Linux/Mac/Windows，采用命令行交互模式，同时提供丰富的 Tab 自动补全功能，帮助开发人员解决基于Java的应用程序的生产环境中的问题，而无需修改代码或重新启动服务器，因而深受开发者喜爱。
 
-## Katacoda
+## 阿里巴巴编程之夏
 
-Katacoda 是一个面向软件工程师的交互式学习和培训平台，可在浏览器中使用真实环境学习和测试新技术，帮助开发人员学习，并掌握最佳实践。
+Arthas新版在线教程项目为[阿里巴巴编程之夏2020](https://developer.aliyun.com/topic/summerofcode2020)的一部分。阿里巴巴编程之夏是面向全球18岁及以上本科、硕士、博士高校学生的编程普惠计划，鼓励高校学生深度参与开源开发活动，以第一视角感受开源世界的魅力，成为开源社区新鲜“血液”。
 
-Katacoda 可以快速的提供一套完整的临时环境，并在使用后将其回收。用户可以根据设计好的引导步骤，通过浏览器上的终端界面操作一套完整的环境，一步步的学习和实践。
+## 新版在线教程
 
-## 使用方法
+Arthas新手们，还在为自己配环境太麻烦，没有配套环境试用而感到遗憾吗？还在为文档操作性差，动手实践难度高而感到迷茫吗？机会来啦！Arthas新版在线教程将会让你的这些**烦恼去无踪**。借助[katacoda平台](https://www.katacoda.com/)，Arthas新版在线教程将会成为你**学习Arthas的利器**！
+
+### 亮点
+
+1. 新版在线教程中包含了老版在线教程中的“Arthas基础教程”和“Arthas进阶教程”，放置在“入门教程”菜单栏中。
+
+2. 将Arthas所有命令按不同的功能放置在菜单栏中，一共分为四部分：基础命令、系统命令、类命令、增强命令，并且给所有的命令根据相关文档改编，分别增加了在线教程。
+
+3. 添加了典型的用户案例在线教程，其中包含了针对特定问题排查和特定功能的使用方法，放置在“用户案例”菜单栏。
+
+### 使用方法
 
 Arthas新版在线教程提供了非常便利的学习方式，你只需要打开相应课程，就可以跟着课程说明，按照设计好的步骤一步步完成学习。
 
 1. 首先访问在线教程：https://arthas.aliyun.com/doc/arthas-tutorials.html?language=cn ，从菜单中选择你想要学习的课程：
 ![](https://images.gitee.com/uploads/images/2020/0814/211330_e71ef0ca_7637131.png)
-
-   * 新版在线教程中包含了老版在线教程中的“Arthas基础教程”和“Arthas进阶教程”，放置在“入门教程”菜单栏中。
-   * 新版在线教程还将Arthas所有命令根据相关文档改编，每个命令一个教程，按类放置在菜单中，并添加了典型的用户案例在线教程。
 
 2. 课程介绍页面会标明课程的难度和需要的时间，帮助你了解该课程的基本信息。点击`START SCENARIO`开始学习。
 ![](https://images.gitee.com/uploads/images/2020/0814/212507_4a02d8aa_7637131.png)
@@ -31,7 +40,7 @@ Arthas新版在线教程提供了非常便利的学习方式，你只需要打�
 4. 点击右侧标签可以切换终端。之后就是跟着步骤说明，一步步的完成学习即可：
 ![](https://images.gitee.com/uploads/images/2020/0814/213458_43bb4e3f_7637131.png)
 
-## 贡献指南
+### 贡献指南
 
 如果你想为Arthas在线教程做出贡献，欢迎为Arthas在线教程提交Pull Request。
 
@@ -43,10 +52,10 @@ Katacoda教程创建方法请参考官方文档（英文）：https://www.kataco
 
 ## 关于
 
-Arthas新版在线教程项目为[阿里巴巴编程之夏2020](https://developer.aliyun.com/topic/summerofcode2020)的一部分，由兰州大学2018级本科生蒋嵩林（我）（Hollow Man）在[@hengyunabc](https://github.com/hengyunabc)和[@kylixs](https://github.com/kylixs)两位导师的共同指导下，于2020年暑期（7-8月）两个月的时间完成。
+新版在线教程由兰州大学2018级本科生蒋嵩林（我）（Hollow Man）在[@hengyunabc](https://github.com/hengyunabc)和[@kylixs](https://github.com/kylixs)两位导师的共同指导下，于2020年暑期（7-8月）两个月的时间完成。
 
 两个月的时间，在我的不懈努力下，2万多行的改动，近70个Pull Request最终促成了这个Arthas新版在线教程！
-![](https://images.gitee.com/uploads/images/2020/0815/174403_7830ea67_7637131.png)
+![](https://images.gitee.com/uploads/images/2020/0820/102003_ac36bc3d_7637131.png)
 
 在项目进行期间，两位导师同时给了我许多指导性的意见，在此我要感谢他们的辛勤指导😀！
 
