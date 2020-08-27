@@ -86,13 +86,23 @@ The new Arthas online tutorials provide a very convenient way to learn. You just
 
 ### Milestone review
 
-Half of the commands and user tutorials were merged into the upstream before July 31, and all commands and user tutorials were merged into the upstream before August 20.
+Half of the commands and user tutorials were merged into the upstream before July 31, and all commands and user tutorials were merged into the upstream on August 14, and then it was online for testing.
 
 Due to the large scale of this project, the completion of each command online tutorial can be regarded as a milestone node.
 
-During the project, more than 70 PRs were sent to Arthas project, with a total increase or decrease of more than 23,000 lines.
+During the project, more than 80 PRs were sent to Arthas project, with a total increase or decrease of more than 26k lines.
 
  ![image](https://images.gitee.com/uploads/images/2020/0820/102003_ac36bc3d_7637131.png)
+
+ During the test, the number of visits to the tutorial increased dramatically, and was well received by all the users!
+
+  * Well received by users:
+
+ ![image](https://user-images.githubusercontent.com/43995067/91398554-e7ba1500-e86e-11ea-98da-77f50546197c.png)
+
+ * Statistics of the visit and engagement duration of the tutorials. It can be seen that after the new version of the tutorial test was launched on August 14, users and engagement duration have increased significantly:
+
+ ![image](https://images.gitee.com/uploads/images/2020/0827/133818_fb0c66c7_7637131.png)
 
 ## Project summary
 
@@ -340,6 +350,10 @@ During the project, more than 70 PRs were sent to Arthas project, with a total i
 
 This part is included in the `Adding Tutorial` part's PR.
 
+#### Add Guides
+
+[Add guides for using and contributing (#1455)](https://github.com/alibaba/arthas/pull/1455)
+
 #### Bug Fix
 
 [Fix intro.md Problems (#1367)](https://github.com/alibaba/arthas/pull/1367)
@@ -359,6 +373,16 @@ This part is included in the `Adding Tutorial` part's PR.
 [Fix displaying (#1436)](https://github.com/alibaba/arthas/pull/1436)
 
 [Update sc/sm Online Tutorial for classLoaderClass (#1443)](https://github.com/alibaba/arthas/pull/1443)
+
+[Fix ID doesn't exist in T4 (#1451)](https://github.com/alibaba/arthas/pull/1451)
+
+[Fix links, typos, 'intro.md', 'finish.md' for Online Tutorials (#1453)](https://github.com/alibaba/arthas/pull/1453)
+
+[Add Press Q or Ctrl+C to abort for enhanced commands (#1454)](https://github.com/alibaba/arthas/pull/1454)
+
+[Classloader using --classLoaderClass in Advanced tutorial (#1456)](https://github.com/alibaba/arthas/pull/1456)
+
+[Fix typos and accessibility #847 (#1460)](https://github.com/alibaba/arthas/pull/1460)
 
 #### Add --classLoaderClass Param PRs
 
@@ -400,7 +424,7 @@ This part is included in the `Adding Tutorial` part's PR.
 
 6. The git repository of the tutorial is placed in Arthas itself so that Arthas contributors can easily find the source code location of the online tutorial and continue to contribute to it.
 
-7. Add --classloaderclas parameter for classloader/sc/sm/logger/dump/getstatic/jad/mc/redifine, through which you can directly specify a classloader which has no duplicate name, and do not need to use c parameter to specify dynamically changing hash value of classloader, which is convenient for online tutorial writing.
+7. Actively Add --classloaderclas parameter for classloader/sc/sm/logger/dump/getstatic/jad/mc/redifine, through which you can directly specify a classloader which has no duplicate name, and do not need to use c parameter to specify dynamically changing hash value of classloader, which is convenient for online tutorial writing.
 
 ### Experience
 

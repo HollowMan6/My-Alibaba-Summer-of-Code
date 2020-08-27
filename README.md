@@ -21,7 +21,9 @@
 
 [2020结项报告](2020-Arthas/阿里巴巴编程之夏2020%20-%20Arthas结项报告.md)
 
-[2020结项PPT](2020-Arthas/阿里巴巴编程之夏2020%20-%20Arthas结项报告.pptx)
+[2020结项PDF版PPT](2020-Arthas/阿里巴巴编程之夏2020%20-%20Arthas结项报告.pdf)
+
+[2020结项原版PPT](2020-Arthas/阿里巴巴编程之夏2020%20-%20Arthas结项报告.pptx)
 
 [2020结项视频-Youtube](https://www.youtube.com/watch?v=hNbjZQopfCo&t=28s)
 
@@ -38,7 +40,9 @@ This is my work and record under Alibaba Summer of Code.
 
 [2020 Final Report](2020-Arthas/Alibaba%20Summer%20of%20Code%202020%20-%20Arthas%20Final%20Report.md)
 
-[2020 Final Report PPT](2020-Arthas/Alibaba%20Summer%20of%20Code%202020%20-%20Arthas%20Final%20Report.pptx)
+[2020 Final Report PPT in PDF](2020-Arthas/Alibaba%20Summer%20of%20Code%202020%20-%20Arthas%20Final%20Report.pdf)
+
+[2020 Final Report Original PPT](2020-Arthas/Alibaba%20Summer%20of%20Code%202020%20-%20Arthas%20Final%20Report.pptx)
 
 [2020 Final Report Video - Youtube](https://www.youtube.com/watch?v=kMy_NnYrc1A&t=17s)
 

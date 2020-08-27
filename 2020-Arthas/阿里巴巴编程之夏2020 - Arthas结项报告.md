@@ -86,13 +86,23 @@ Arthas在线教程重新编排，每个命令一个小教程
 
 ### 里程碑节点回顾
 
-7月31日前实现了半数命令和用户教程合并进主仓库的任务，8月20日前实现了所有命令和用户教程合并进主仓库的任务。
+7月31日前实现了半数命令和用户教程合并进主仓库的任务，8月14日实现了所有命令和用户教程合并进主仓库的任务，并开始上线测试。
 
 由于项目较庞大，完成每个命令的编写都可以算作一个里程碑节点。
 
-项目进行期间向Arthas项目提起了超过70个PRs，总增减量超过两万三千行。
+项目进行期间向Arthas项目提起了超过80个PRs，总增减量超过两万六千行。
 
- ![image](https://images.gitee.com/uploads/images/2020/0820/102003_ac36bc3d_7637131.png)
+ ![image](https://images.gitee.com/uploads/images/2020/0827/133538_9296b1ed_7637131.png)
+
+ 测试期间，教程访问量激增，并且受到了用户的一致好评！
+
+ * 用户的好评：
+
+ ![image](https://images.gitee.com/uploads/images/2020/0827/133654_e1f2c3ea_7637131.png)
+
+ * 教程使用人数和时长统计。可见8月14日新版教程测试上线之后，用户和时长都出现了大幅度的增加：
+
+ ![image](https://images.gitee.com/uploads/images/2020/0827/133818_fb0c66c7_7637131.png)
 
 ## 项目总结
 
@@ -340,6 +350,10 @@ Arthas在线教程重新编排，每个命令一个小教程
 
 此部分包含在`教程编写`部分PR中。
 
+#### 增加使用和贡献指南
+
+[增加使用和贡献指南 (#1455)](https://github.com/alibaba/arthas/pull/1455)
+
 #### 修复错误
 
 [修复 intro.md 问题 (#1367)](https://github.com/alibaba/arthas/pull/1367)
@@ -350,9 +364,9 @@ Arthas在线教程重新编排，每个命令一个小教程
 
 [修复拼写错误 (#1418)](https://github.com/alibaba/arthas/pull/1418)
 
-[修复写错误 (#1419)](https://github.com/alibaba/arthas/pull/1419)
+[修复拼写错误 (#1419)](https://github.com/alibaba/arthas/pull/1419)
 
-[修复写错误 (#1434)](https://github.com/alibaba/arthas/pull/1434)
+[修复拼写错误 (#1434)](https://github.com/alibaba/arthas/pull/1434)
 
 [修复网页 (#1435)](https://github.com/alibaba/arthas/pull/1435)
 
@@ -360,11 +374,21 @@ Arthas在线教程重新编排，每个命令一个小教程
 
 [为 --classLoaderClass 更新 sc/sm 在线教程 (#1443)](https://github.com/alibaba/arthas/pull/1443)
 
+[修复 ID 在 T4 中不存在 (#1451)](https://github.com/alibaba/arthas/pull/1451)
+
+[修复链接, 拼写错误, 'intro.md', 'finish.md' (#1453)](https://github.com/alibaba/arthas/pull/1453)
+
+[为增强命令教程增加按 Q 或 Ctrl+C 退出的提示 (#1454)](https://github.com/alibaba/arthas/pull/1454)
+
+[Classloader 在高级教程中使用 --classLoaderClass (#1456)](https://github.com/alibaba/arthas/pull/1456)
+
+[修复拼写错误和访问问题 #847 (#1460)](https://github.com/alibaba/arthas/pull/1460)
+
 #### 增加 Add --classLoaderClass Param 参数 PRs
 
-[Classloader support matching classloader by class name (#1428)](https://github.com/alibaba/arthas/pull/1428)
+[Classloader 命令支持使用 class name 匹配 ClassLoader (#1428)](https://github.com/alibaba/arthas/pull/1428)
 
-[优化 O--classLoaderClass #1428 (#1431)](https://github.com/alibaba/arthas/pull/1431)
+[优化 --classLoaderClass #1428 (#1431)](https://github.com/alibaba/arthas/pull/1431)
 
 [为sc/sm增加 --classLoaderClass参数 (#1433)](https://github.com/alibaba/arthas/pull/1433)
 
@@ -400,7 +424,7 @@ Arthas在线教程重新编排，每个命令一个小教程
 
 6. 把教程git仓库放在arthas本身，方便后续Arthas贡献者找到在线教程源代码位置并为其继续贡献。
 
-7. 为classloader/sc/sm/logger/dump/getstatic/jad/mc/redifine增加 --classLoaderClas参数，通过其可以直接指定某个无重复名称的ClassLoader而无需使用c参数指定动态变化的ClassLoader的Hash值，方便在线教程的编写。
+7. 主动为classloader/sc/sm/logger/dump/getstatic/jad/mc/redifine增加 --classLoaderClas参数，通过其可以直接指定某个无重复名称的ClassLoader而无需使用c参数指定动态变化的ClassLoader的Hash值，方便在线教程的编写。
 
 ### 心得体会
 

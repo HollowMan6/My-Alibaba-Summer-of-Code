@@ -54,8 +54,8 @@ Katacoda教程创建方法请参考官方文档（英文）：https://www.kataco
 
 新版在线教程由兰州大学2018级本科生蒋嵩林（我）（Hollow Man）在[@hengyunabc](https://github.com/hengyunabc)和[@kylixs](https://github.com/kylixs)两位导师的共同指导下，于2020年暑期（7-8月）两个月的时间完成。
 
-两个月的时间，在我的不懈努力下，2万多行的改动，近70个Pull Request最终促成了这个Arthas新版在线教程！
-![](https://images.gitee.com/uploads/images/2020/0820/102003_ac36bc3d_7637131.png)
+两个月的时间，在我的不懈努力下，2万6千多行的改动，超过80个Pull Request最终促成了这个Arthas新版在线教程！
+![](https://images.gitee.com/uploads/images/2020/0827/133538_9296b1ed_7637131.png)
 
 在项目进行期间，两位导师同时给了我许多指导性的意见，在此我要感谢他们的辛勤指导😀！
 
