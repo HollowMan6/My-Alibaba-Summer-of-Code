@@ -92,7 +92,7 @@ Arthas在线教程重新编排，每个命令一个小教程
 
 项目进行期间向Arthas项目提起了超过80个PRs，总增减量超过两万六千行。
 
- ![image](https://images.gitee.com/uploads/images/2020/0827/133538_9296b1ed_7637131.png)
+ ![image](https://images.gitee.com/uploads/images/2020/0903/191310_d7ff2cf1_7637131.png)
 
  测试期间，教程访问量激增，并且受到了用户的一致好评！
 

@@ -55,7 +55,7 @@ You can also refer to the article of Alibaba cloud developer community here(In C
 Arthas new online tutorials are completed by Songlin Jiang (I) (hollow Man), a 2018 undergraduate of Lanzhou University at [@hengyunabc](https://github.com/hengyunabc) and [@kylixs](https://github.com/kylixs) under the joint guidance of the two mentors in two months during the summer holiday (July to August) in 2020.
 
 During the project peroid, with my unremitting efforts, more than 26k lines of changes and over 80 pull requests finally contributed to the new online tutorial of Arthas!
-![](https://images.gitee.com/uploads/images/2020/0827/133538_9296b1ed_7637131.png)
+![](https://images.gitee.com/uploads/images/2020/0903/191310_d7ff2cf1_7637131.png)
 
 The two mentors also gave me a lot of guiding opinions during ASoC 2020, and I would like to thank them for their hard guidance 😀！
 

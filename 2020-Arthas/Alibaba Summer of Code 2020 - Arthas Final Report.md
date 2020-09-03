@@ -92,7 +92,7 @@ Due to the large scale of this project, the completion of each command online tu
 
 During the project, more than 80 PRs were sent to Arthas project, with a total increase or decrease of more than 26k lines.
 
- ![image](https://images.gitee.com/uploads/images/2020/0820/102003_ac36bc3d_7637131.png)
+ ![image](https://images.gitee.com/uploads/images/2020/0903/191310_d7ff2cf1_7637131.png)
 
  During the test, the number of visits to the tutorial increased dramatically, and was well received by all the users!
 
