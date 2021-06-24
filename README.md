@@ -13,7 +13,7 @@
 
 [![](https://gh-card.dev/repos/alibaba/arthas.svg?link_target=_blank)](https://github.com/alibaba/arthas)
 ## [2020 Final Result 结项](https://developer.aliyun.com/article/772801)
-![](2020-Arthas/Certificate.jpg)
+![](https://hollowman6.github.io/img/badges/alibaba-certificate.jpg)
 
 这里是我的"阿里巴巴编程之夏"活动记录与成果
 
